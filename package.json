@@ -1,0 +1,19 @@
+{
+  "name": "week-13-intro_to_react_webpack_components_and_jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahguay/Week-13-Intro_to_React_Webpack_Components_and_JSX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahguay/Week-13-Intro_to_React_Webpack_Components_and_JSX/issues"
+  },
+  "homepage": "https://github.com/hannahguay/Week-13-Intro_to_React_Webpack_Components_and_JSX#readme"
+}
